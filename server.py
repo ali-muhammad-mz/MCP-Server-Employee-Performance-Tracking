@@ -21,7 +21,7 @@ def get_current_feature(employee_id: str) -> str:
     return "No such employee ID"
 
 @mcp.tool()
-def get_completed_features(employee_id: str) -> str:
+def get_num_completed_features(employee_id: str) -> str:
     """Fetch the number of completed features for the given employee ID"""
     employee_data = mock_db.get(employee_id)
     if employee_data:
