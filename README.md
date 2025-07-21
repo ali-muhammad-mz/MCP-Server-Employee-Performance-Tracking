@@ -28,3 +28,5 @@ The server provides three tools:
 - **Get Current Feature** - Fetch the current feature being worked on by an employee
 - **Get Completed Features** - Get the count of completed features for an employee  
 - **Update Current Feature** - Reassign employee's current assignment and mark previous as complete
+
+**Note**: This implementation uses mock data for demonstration purposes instead of connecting to an actual database.
