@@ -1,6 +1,6 @@
 # MCP-Server-Employee-Performance-Tracking
 
-A Model Context Protocol (MCP) server for tracking employee feature assignments and completion status.
+A Model Context Protocol (MCP) server for managing and tracking employee performance.
 
 ## Quick Start
 
